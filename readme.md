@@ -71,5 +71,5 @@ http://www.rashidulislam.com
 [Rashidul Islam](http://www.rashidulislam.com) 
 ### Mark down image syntax 
 <!-- ![profile](img_tree.png) -->
-<img src="img_tree.png" width="400px">
+<img src="img_tree.PNG" width="400px">
 ☺️ 
